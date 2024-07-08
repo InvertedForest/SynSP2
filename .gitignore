@@ -1,0 +1,13 @@
+__pycache__
+.idea
+.vscode
+*.log
+
+/results
+/data
+.history
+
+
+*.lprof
+/tmp
+*.mp4
